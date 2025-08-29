@@ -1,5 +1,7 @@
 ## Hi there, I'm James but I go by JD. 👋
 
+I am studying to be a Computer Engineer 
+
 <!--
 **JamesMcMonagle/JamesMcMonagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
