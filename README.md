@@ -2,7 +2,13 @@
 
 I am studying to be a Computer Engineer 
 
+
+Projetcs
+- A dungeon crawl game that I have been working on since I started for a class the last semester.
+- I am also going to be working on a Package Delivery Simulator this semester in my computer science 2 class
 <!--
+
+
 **JamesMcMonagle/JamesMcMonagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
